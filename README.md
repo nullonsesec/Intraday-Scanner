@@ -1,10 +1,10 @@
-# 🚀 Intraday Scanner Pro
+ Intraday Scanner 
 
 Production-grade NSE/BSE momentum scanner with AI-powered ranking, RSI filters, volume breakout detection, Telegram alerts, GitHub automation, and HTML dashboard generation.
 
 ---
 
-# 📌 Features
+Features
 
 * ✅ Full NSE + BSE dynamic stock scanning
 * ✅ Multithreaded scanning engine
@@ -21,7 +21,7 @@ Production-grade NSE/BSE momentum scanner with AI-powered ranking, RSI filters, 
 
 ---
 
-# 🧠 Scanner Logic
+Scanner Logic
 
 Stocks are filtered based on:
 
@@ -34,7 +34,7 @@ Stocks are filtered based on:
 
 ---
 
-# 📊 AI Ranking System
+AI Ranking System
 
 The AI score is calculated using:
 
@@ -53,7 +53,7 @@ This helps prioritize:
 
 ---
 
-# 📁 Project Structure
+📁 Project Structure
 
 ```bash
 intraday-scanner-pro/
@@ -83,7 +83,7 @@ intraday-scanner-pro/
 
 ---
 
-# ⚙️ Installation
+Installation
 
 ## Clone Repository
 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Usage
+Usage
 
 ## Run Scanner
 
@@ -115,7 +115,7 @@ python scanner.py
 
 ---
 
-# 📤 Output
+Output
 
 Generated automatically:
 
@@ -127,7 +127,7 @@ Generated automatically:
 
 ---
 
-# 🌍 GitHub Pages Setup
+GitHub Pages Setup
 
 Enable GitHub Pages:
 
@@ -146,7 +146,7 @@ https://YOUR_USERNAME.github.io/intraday-scanner-pro/
 
 ---
 
-# 🤖 Telegram Alerts Setup
+Telegram Alerts Setup
 
 Edit:
 
@@ -164,7 +164,7 @@ CHAT_ID = "YOUR_CHAT_ID"
 
 ---
 
-# ⏰ GitHub Actions Automation
+#GitHub Actions Automation
 
 Included workflow:
 
@@ -176,7 +176,7 @@ Runs automatically on weekdays.
 
 ---
 
-# 🔥 Future Enhancements
+Future Enhancements
 
 Planned upgrades:
 
@@ -191,7 +191,7 @@ Planned upgrades:
 
 ---
 
-# ⚠️ Disclaimer
+Disclaimer
 
 This project is for educational and research purposes only.
 
@@ -199,7 +199,7 @@ The scanner does NOT provide financial advice. Always perform your own due dilig
 
 ---
 
-# 🧑‍💻 Tech Stack
+Tech Stack
 
 * Python
 * Pandas
@@ -210,12 +210,12 @@ The scanner does NOT provide financial advice. Always perform your own due dilig
 
 ---
 
-# ⭐ Contributing
+Contributing
 
 Pull requests and feature suggestions are welcome.
 
 ---
 
-# 📜 License
+License
 
 MIT License
